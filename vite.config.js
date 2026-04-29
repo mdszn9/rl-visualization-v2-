@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/rl-visualization-v2/',
+  base: '/rl-visualization-v2-/',
   plugins: [react()],
 })
